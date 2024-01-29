@@ -2,9 +2,6 @@
   "language_select_info": "उस भाषा का चयन करें जिसका आप उपयोग करना चाहते हैं",
   "selected_language": "आपने {language} भाषा चुनी है",
   "hindi": "हिंदी",
-  "parent": {
-    "child": {
-      "inner_child": "भीतर के बच्चा"
-    }
-  }
+  "instructions": "निर्देश",
+  "instruction_paragraph": "कृपया इन निर्देशों का ध्यानपूर्वक पालन करें।"
 }

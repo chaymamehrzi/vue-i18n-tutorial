@@ -1,6 +1,8 @@
 <template>
-  <div id="app">
-    <h1> Vue Internationalization App</h1>
+  <div id="app" class="container">
+    <div class="jumbotron">
+      <h1 class="display-4">Vue Internationalization App</h1>
+    </div>
     <HelloI18n />
   </div>
 </template>

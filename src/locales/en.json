@@ -2,9 +2,6 @@
   "language_select_info": "Select the language you want to use",
   "selected_language": "You have selected english {language}",
   "english": "English",
-  "parent": {
-    "child": {
-      "inner_child": "Inner child"
-    }
-  }
+  "instructions": "Instructions",
+  "instruction_paragraph": "Please follow these instructions carefully."
 }
