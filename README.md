@@ -20,10 +20,12 @@ This Vue.js application demonstrates internationalization (i18n) using the Vue I
 
 2.Install dependencies: 
 
+```bash
 npm install
 
-3.Run the development server: 
+3.Run the development server:
 
+```bash
 npm run serve
 
 Now you can access to the web application in your web browser. 
